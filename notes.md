@@ -33,6 +33,6 @@ The group was able to slay the beast. Bolt was able to stabilize and Angus was a
 
 
 ### XP
-250 - Previous
-180 - Newly earned
-430 - Total
+250 - Previous  
+180 - Newly earned  
+430 - Total  
